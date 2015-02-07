@@ -1,3 +1,11 @@
+## Instructions
+
+Each R script is self-contained and will produce its corresponding plot.
+The only requirement is that the unzipped txt file be present in the
+working directory.
+
+The original project instructions are included below:
+
 ## Introduction
 
 This assignment uses data from
